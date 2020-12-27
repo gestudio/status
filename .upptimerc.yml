@@ -6,6 +6,11 @@ repo: status # Your Github repository name
 sites:
   - name: Flylogs
     url: https://www.flylogs.com
+  - name: Authentication Server
+    url: https://www.flylogs.com/users/login
+    method: POST
+    body: '{ "data[User][email]": "alumna@test.flylogs.com", "data[User][password]": "123456" }'
+    expectedStatusCodes: 302
   - name: Flylogs API
     url: https://api.flylogs.com
 
@@ -18,6 +23,7 @@ status-website:
   name: Flylogs Status
   introTitle: "**Flylogs** services status page"
   introMessage: This is a service status page which uses **real-time** data to display service status.
+  css: "body{background:#fff;} nav { background: #0073d5!important } nav a{color:#fff}"
   navbar:
     - title: Status
       href: /
