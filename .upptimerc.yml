@@ -37,3 +37,11 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+NOTIFICATION_SMS_OVH: true
+NOTIFICATION_SMS_FROM: FLYLOGS.COM
+NOTIFICATION_SMS_TO: +0034674612168
+NOTIFICATION_SMS_OVH_APP_KEY: yIDCSgjunTNTjtyG
+NOTIFICATION_SMS_OVH_APP_SECRET: RfU9iNYmfguXl27Vsc1f3j9xF4EK1ynz
+NOTIFICATION_SMS_OVH_CONSUMER_KEY: vNzGFeWYTeIVemV6FszkJDPh1jekO9HA
+NOTIFICATION_SMS_OVH_ACCOUNT: sms-gi2097-1
+NOTIFICATION_SMS_OVH_HOST: eu.api.ovhcom
