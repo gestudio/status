@@ -10,7 +10,8 @@ sites:
     url: https://www.flylogs.com/users/login
     method: POST
     body: '{ "data[User][email]": "alumna@test.flylogs.com", "data[User][password]": "123456" }'
-    expectedStatusCodes: 302
+    expectedStatusCodes: 
+      - 302
   - name: Flylogs API
     url: https://api.flylogs.com
 
