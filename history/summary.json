@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 817,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
+    "time": 815,
+    "timeDay": 815,
+    "timeWeek": 815,
+    "timeMonth": 815,
+    "timeYear": 815,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Flylogs API",
+    "url": "https://api.flylogs.com",
+    "icon": "https://favicons.githubusercontent.com/api.flylogs.com",
+    "slug": "flylogs-api",
+    "status": "down",
+    "uptime": "14.24%",
+    "uptimeDay": "14.24%",
+    "uptimeWeek": "14.24%",
+    "uptimeMonth": "14.24%",
+    "uptimeYear": "14.24%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-27": 0
+    }
   }
 ]
