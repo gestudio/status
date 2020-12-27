@@ -21,6 +21,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: News
+      href: https://www.flylogs.com/news
+    - title: Contact
+      href: https://www.flylogs.com/home/contact
     - title: Login
       href: https://www.flylogs.com/users/login
 
