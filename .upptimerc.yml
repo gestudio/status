@@ -24,7 +24,10 @@ status-website:
   name: Flylogs Status
   introTitle: "**Flylogs** services status page"
   introMessage: This is a service status page which uses **real-time** data to display service status.
-  css: "body{background:#fff;} nav { background: #0073d5!important } nav a{color:#fff}"
+  css: "body{background:#fff;} nav{ background: #0073d5 !important; } nav a{color: #fff;}"
+  links:
+    - rel: stylesheet
+      href: https://www.gestudio.com/flylogs-status.css
   navbar:
     - title: Status
       href: /
@@ -35,5 +38,7 @@ status-website:
     - title: Login
       href: https://www.flylogs.com/users/login
 
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
