@@ -6,6 +6,8 @@ repo: status # Your Github repository name
 sites:
   - name: Flylogs
     url: https://www.flylogs.com
+  - name: Flylogs API
+    url: https://api.flylogs.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
