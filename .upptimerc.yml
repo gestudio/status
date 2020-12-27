@@ -27,7 +27,7 @@ status-website:
   css: "body{background:#fff;} nav{ background: #0073d5 !important; } nav a{color: #fff;}"
   links:
     - rel: stylesheet
-      href: https://www.gestudio.com/flylogs-status.css
+      href: https://static.flylogs.com/flylogs-status.css
   navbar:
     - title: Status
       href: /
