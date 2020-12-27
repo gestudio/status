@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 790,
-    "timeWeek": 790,
-    "timeMonth": 790,
-    "timeYear": 790,
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Authentication Server",
-    "url": "https://www.flylogs.com/users/login",
-    "icon": "https://favicons.githubusercontent.com/www.flylogs.com",
-    "slug": "authentication-server",
-    "status": "down",
-    "uptime": "4.18%",
-    "uptimeDay": "4.18%",
-    "uptimeWeek": "4.18%",
-    "uptimeMonth": "4.18%",
-    "uptimeYear": "4.18%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
-    "dailyMinutesDown": {
-      "2020-12-27": 0
-    }
   },
   {
     "name": "Flylogs API",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 546,
-    "timeDay": 546,
-    "timeWeek": 546,
-    "timeMonth": 546,
-    "timeYear": 546,
+    "time": 552,
+    "timeDay": 552,
+    "timeWeek": 552,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   }
 ]
