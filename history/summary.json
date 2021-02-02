@@ -4,19 +4,19 @@
     "url": "https://www.flylogs.com",
     "icon": "https://favicons.githubusercontent.com/www.flylogs.com",
     "slug": "flylogs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 2472,
-    "timeWeek": 1029,
-    "timeMonth": 688,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 701,
+    "timeDay": 1901,
+    "timeWeek": 999,
+    "timeMonth": 690,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-02-02": 0
+      "2021-02-02": 18
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.flylogs.com",
     "icon": "https://favicons.githubusercontent.com/api.flylogs.com",
     "slug": "flylogs-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 431,
-    "timeWeek": 430,
-    "timeMonth": 406,
-    "timeYear": 443,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 446,
+    "timeDay": 490,
+    "timeWeek": 450,
+    "timeMonth": 412,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2021-02-02": 0
+      "2021-02-02": 18
     }
   }
 ]
