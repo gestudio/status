@@ -10,11 +10,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 667,
-    "timeDay": 853,
-    "timeWeek": 603,
-    "timeMonth": 704,
-    "timeYear": 667,
+    "time": 663,
+    "timeDay": 437,
+    "timeWeek": 598,
+    "timeMonth": 699,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2021-02-23": 23
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/api.flylogs.com",
     "slug": "flylogs-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 444,
-    "timeDay": 553,
-    "timeWeek": 427,
-    "timeMonth": 443,
-    "timeYear": 444,
+    "uptimeYear": "99.98%",
+    "time": 443,
+    "timeDay": 331,
+    "timeWeek": 428,
+    "timeMonth": 440,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2021-02-23": 22
     }
