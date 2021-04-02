@@ -14,7 +14,12 @@ sites:
 #      - 302
   - name: Flylogs API
     url: https://api.flylogs.com
-
+  - name: Flylogs Barcelona
+    url: https://bcn.flylogs.com
+  - name: Flylogs USA
+    url: https://us.flylogs.com
+  - name: Flylogs Frankfurt
+    url: https://fra.flylogs.com
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.flylogs.com
