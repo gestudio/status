@@ -29,7 +29,7 @@ status-website:
   name: Flylogs Status
   introTitle: "**Flylogs** services status page"
   introMessage: This is a service status page which uses **real-time** data to display service status.
-  css: "body{background:#fff;} nav{ background: #0073d5 !important; } nav a{color: #fff;}"
+  css: "body{background:#fff;} nav{ background: #0073d5 !important; } nav a{color: #fff;} [aria-current]{border-bottom-color:#f7b731}"
   links:
     - rel: stylesheet
       href: https://static.flylogs.com/flylogs-status.css
