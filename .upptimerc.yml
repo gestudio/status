@@ -14,7 +14,7 @@ sites:
       - 200
   - name: Flylogs Barcelona
     url: https://bcn.flylogs.com
-  - name: Flylogs USA
+  - name: Flylogs New York
     url: https://us.flylogs.com
   - name: Flylogs Frankfurt
     url: https://fra.flylogs.com
