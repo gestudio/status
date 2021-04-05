@@ -6,20 +6,20 @@ repo: status # Your Github repository name
 sites:
   - name: Flylogs
     url: https://www.flylogs.com
-#  - name: Authentication Server
-#    url: https://www.flylogs.com/users/login
-#    method: POST
-#    body: '{ "data[User][email]": "alumna@test.flylogs.com", "data[User][password]": "123456" }'
-#    expectedStatusCodes: 
-#      - 302
-  - name: Flylogs API
-    url: https://api.flylogs.com
+  - name: Authentication Server
+    url: https://www.flylogs.com/users/login.json
+    method: POST
+    body: '{ "data[User][email]": "ping@test.flylogs.com", "data[User][password]": "123456" }'
+    expectedStatusCodes: 
+      - 200
   - name: Flylogs Barcelona
     url: https://bcn.flylogs.com
   - name: Flylogs USA
     url: https://us.flylogs.com
   - name: Flylogs Frankfurt
     url: https://fra.flylogs.com
+    expectedStatusCodes: 
+      - 403
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.flylogs.com
