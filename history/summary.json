@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 640,
-    "timeDay": 677,
-    "timeWeek": 719,
-    "timeMonth": 613,
-    "timeYear": 640,
+    "time": 639,
+    "timeDay": 513,
+    "timeWeek": 713,
+    "timeMonth": 615,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2021-02-23": 23
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/www.flylogs.com",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.98%",
-    "time": 337,
-    "timeDay": 372,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 337,
+    "uptimeYear": "99.22%",
+    "time": 394,
+    "timeDay": 675,
+    "timeWeek": 432,
+    "timeMonth": 432,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2020-12-27": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 673,
-    "timeDay": 669,
-    "timeWeek": 673,
-    "timeMonth": 673,
-    "timeYear": 673,
+    "time": 649,
+    "timeDay": 457,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 170,
-    "timeWeek": 170,
-    "timeMonth": 170,
-    "timeYear": 170,
+    "time": 174,
+    "timeDay": 182,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 639,
-    "timeWeek": 612,
-    "timeMonth": 612,
-    "timeYear": 612,
+    "time": 593,
+    "timeDay": 443,
+    "timeWeek": 593,
+    "timeMonth": 593,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   }
 ]
