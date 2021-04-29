@@ -4,14 +4,14 @@ repo: status # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Flylogs Lille
-    url: https://www.flylogs.com
   - name: Flylogs API
     url: https://www.flylogs.com/users/login.json
     method: POST
     body: '{ "data[User][email]": "ping@test.flylogs.com", "data[User][password]": "123456" }'
     expectedStatusCodes: 
       - 200
+  - name: Flylogs Lille
+    url: https://www.flylogs.com
   - name: Flylogs Barcelona
     url: https://bcn.flylogs.com
   - name: Flylogs Frankfurt
