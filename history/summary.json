@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.flylogs.com",
     "slug": "flylogs-api",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.42%",
-    "time": 453,
-    "timeDay": 348,
-    "timeWeek": 697,
-    "timeMonth": 647,
-    "timeYear": 453,
+    "uptimeYear": "99.58%",
+    "time": 455,
+    "timeDay": 582,
+    "timeWeek": 674,
+    "timeMonth": 651,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2021-02-23": 22
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 365,
-    "timeWeek": 614,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 591,
+    "timeDay": 499,
+    "timeWeek": 591,
+    "timeMonth": 591,
+    "timeYear": 591,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
-    "timeDay": 547,
-    "timeWeek": 588,
-    "timeMonth": 616,
-    "timeYear": 616,
+    "time": 618,
+    "timeDay": 694,
+    "timeWeek": 576,
+    "timeMonth": 614,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 498,
+    "time": 556,
+    "timeDay": 688,
     "timeWeek": 520,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "timeMonth": 554,
+    "timeYear": 556,
     "dailyMinutesDown": {}
   }
 ]
