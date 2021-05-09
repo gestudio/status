@@ -1,7 +1,7 @@
 url: https://www.flylogs.com/users/login.json
-status: down
-code: 500
-responseTime: 352
-lastUpdated: 2021-05-09T21:31:39.107Z
+status: up
+code: 200
+responseTime: 682
+lastUpdated: 2021-05-09T21:47:45.416Z
 startTime: Thu Apr 29 2021 11:15:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
