@@ -60,17 +60,17 @@
     "url": "https://fra.flylogs.com",
     "icon": "https://favicons.githubusercontent.com/fra.flylogs.com",
     "slug": "flylogs-frankfurt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 480,
-    "timeWeek": 558,
-    "timeMonth": 550,
-    "timeYear": 563,
+    "time": 564,
+    "timeDay": 554,
+    "timeWeek": 567,
+    "timeMonth": 552,
+    "timeYear": 564,
     "dailyMinutesDown": {}
   }
 ]
