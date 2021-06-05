@@ -42,7 +42,7 @@
     "url": "https://bcn.flylogs.com",
     "icon": "https://favicons.githubusercontent.com/bcn.flylogs.com",
     "slug": "flylogs-barcelona",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,7 @@
     "time": 623,
     "timeDay": 603,
     "timeWeek": 596,
-    "timeMonth": 623,
+    "timeMonth": 619,
     "timeYear": 623,
     "dailyMinutesDown": {}
   },
