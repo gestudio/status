@@ -51,7 +51,7 @@
     "time": 625,
     "timeDay": 571,
     "timeWeek": 590,
-    "timeMonth": 635,
+    "timeMonth": 639,
     "timeYear": 625,
     "dailyMinutesDown": {}
   },
@@ -60,7 +60,7 @@
     "url": "https://fra.flylogs.com",
     "icon": "https://favicons.githubusercontent.com/fra.flylogs.com",
     "slug": "flylogs-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
